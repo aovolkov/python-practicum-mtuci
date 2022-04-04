@@ -24,7 +24,7 @@ http://localhost:[PORT]
 
 В дальнейшем для синхронизации с данным репозиторием необходимо выполнять команду:
 ```
-git pull origin master
+git pull origin main
 ```
 
 ### Контакты для связи:
