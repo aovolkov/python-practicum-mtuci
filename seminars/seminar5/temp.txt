@@ -1,0 +1,4 @@
+def check_last():
+    with open('temp.txt', 'w') as fout:
+        fout.write(In[len(In)-2])
+    get_ipython().system('mypy temp.txt')
